@@ -73,7 +73,7 @@
 		
 			<h1>Welcome</h1>
 			<h1 class="smallh1">I am Rohan Chougule</h1>
-			<h1 class="smallerh1">A <span>Web Designer</span> UI Developer </br> located in the beautiful city of Pune, India</h1>
+			<h1 class="smallerh1">located in the beautiful city of Pune, India</h1>
 			
 			<div class="social">
 				<ul>
@@ -132,10 +132,10 @@
 					<img src="images/about-pic.jpg" class="scale-with-grid aboutPic" alt="Rohan Chougule" />
 				</div> <!-- end four columns -->
 				<div class="twelve columns omega aboutContent">
-					<p>Hello, my name is Rohan Chougule. I specialize in writing clean, semantic, accessible front end code including HTML5, CSS3, and JavaScript. I am also a food lover, coffee enthusiast, shutterbug, karma believer, and above all, a passionate individual.</p>
+					<p>Specialize in writing clean, semantic, accessible front end code including HTML5, CSS3, and JavaScript. I am also a food lover, coffee enthusiast, shutterbug, karma believer, and above all, a passionate individual.</p>
                 	<p>I built my first website in college and from there it was love at first sight. Digital technology became a passion that still haunts me. This passion led me to drop out of college (no regrets) and led me to Pune, my holy work place.</p>
 
-					<p>I find a lot of joy designing, planning and brainstorming new creative ideas. But implementing those ideas and concepts into workable web products is where I really shine. I have been a professional in this capacity for over five years and have loved (almost) every minute of it.</p>
+					<p>I find a lot of joy designing, planning and brainstorming new creative ideas. But implementing those ideas and concepts into workable products is where I really shine. I have been a professional in this capacity for over seven years and have loved (almost) every minute of it.</p>
 
                     <p>I am interested in standard-compliant, well-engineered, accessible and engaging sites. I am experienced in user-friendly web interfaces developed to the highest W3C standards. I am interested in social media and the semantic web.</p>
 				</div> <!-- end eight columns -->
