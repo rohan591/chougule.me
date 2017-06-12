@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Rohan Chougule | UI Developer</title>
+	<title>Rohan Chougule | Hartley Lab - Vice Precident &amp; Co-Founder</title>
 	<meta name="description" content="Rohan Chougule is a developer and co-founder of Hartley Lab. He is specialized in writing clean, semantic, accessible front end code including HTML5, CSS3, and JavaScript. He is also a food lover, coffee enthusiast, shutterbug, karma believer, and above all, a passionate individual." />
     <meta name="keywords" content="rohan chougule, rohan, chougule, ui developer, web development, webdesign, web design, information architecture, usability, user interface design, UI,  development, html, css, javascript, ajax, coldfusion, search engine optimization, front end development, design, computer arts, art" />
     <meta name="apple-mobile-web-app-capable" content="yes">
