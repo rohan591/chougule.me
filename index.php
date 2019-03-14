@@ -8,8 +8,8 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Rohan Chougule | Hartley Lab - Vice Precident &amp; Co-Founder</title>
-	<meta name="description" content="Rohan Chougule is a developer and co-founder of Hartley Lab. He is specialized in writing clean, semantic, accessible front end code including HTML5, CSS3, and JavaScript. He is also a food lover, coffee enthusiast, shutterbug, karma believer, and above all, a passionate individual." />
+	<title>Rohan Chougule | FullStack Web Developer</title>
+	<meta name="description" content="Rohan Chougule is a FullStack developer. He is specialized in writing clean, semantic, accessible front end code including HTML5, CSS3, and JavaScript. He is also a food lover, coffee enthusiast, shutterbug, karma believer, and above all, a passionate individual." />
     <meta name="keywords" content="rohan chougule, rohan, chougule, ui developer, web development, webdesign, web design, information architecture, usability, user interface design, UI,  development, html, css, javascript, ajax, coldfusion, search engine optimization, front end development, design, computer arts, art" />
     <meta name="apple-mobile-web-app-capable" content="yes">
 
@@ -49,6 +49,14 @@
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
+	</script>
+	
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-4393189877140544",
+	    enable_page_level_ads: true
+	  });
 	</script>
 
 	<div class="top-bar"></div>
