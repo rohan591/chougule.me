@@ -157,7 +157,7 @@
 					
 					<div class="two columns alpha">
 						<p><a href="http://www.hartleylab.com/" target="_blank">HARTLEY LAB</a></p>
-						<p class="line2nd">Present</p>
+						<p class="line2nd">Jan 2015 - Oct 2018</p>
 					</div>
 					<div class="six columns omega">
 						<p>Co-Founder</p>
@@ -166,7 +166,7 @@
 
 					<div class="two columns alpha">
 						<p><a href="http://www.cbil360.com" target="_blank">CBIL360</a></p>
-						<p class="line2nd">Jan 2012 - Present</p>
+						<p class="line2nd">Jan 2012 - Dec 2014</p>
 					</div>
 					<div class="six columns omega">
 						<p>UI Development & Module Lead</p>
