@@ -1,0 +1,42 @@
+# Rohan Chougule - Full Stack Developer | Cloud & DevOps Architect
+
+> Experienced full-stack developer and solution architect specializing in scalable web applications, cloud infrastructure, and DevOps. Showcasing projects, technical expertise, and professional experience with a focus on AI-driven systems and SaaS product evolution.
+
+## About Rohan Chougule
+Rohan Chougule is a solution architect with over 17 years of experience in building scalable, high-traffic web and mobile applications. He specializes in frontend, backend, cloud, and DevOps solutions, emphasizing performance and clean architecture. Rohan has founded three startups and leads engineering teams to deliver reliable products. His current focus is on pioneering AI-driven systems, workflow automation, and scaling modern SaaS infrastructures.
+
+# www.chougule.me llms.txt
+- [Rohan Chougule - Full Stack Developer | Cloud & DevOps Architect](https://www.chougule.me): Portfolio and professional overview of Rohan Chougule, highlighting his experience, technical skills, and AI-first product focus.
+
+## Core Services & Features
+- Full-stack development (frontend, backend, mobile)
+- Cloud infrastructure architecture
+- DevOps solutions and automation
+- Scalable SaaS product design and implementation
+- AI-driven system integration and workflow automation
+- Leadership of engineering teams
+- Building high-traffic, reliable web and mobile applications
+
+## Target Audience
+- Startups seeking scalable SaaS architecture
+- Companies needing AI integration in products
+- Engineering teams requiring leadership and technical guidance
+- Organizations looking for cloud and DevOps expertise
+
+## Key Value Propositions
+1. Over 17 years of industry experience delivering scalable, high-traffic applications.
+2. Expertise in architecting clean, performant frontend, backend, and cloud solutions.
+3. Proven leadership in founding startups and managing engineering teams.
+4. Focus on AI-first product development and workflow automation.
+5. Ability to transform nascent ideas into production-ready platforms through iterative, data-driven processes.
+
+## Content Topics Covered
+- AI & SaaS product development
+- Scalable web and mobile application architecture
+- Cloud infrastructure and DevOps best practices
+- Technical leadership and team management
+- Workflow automation and AI integration
+- Financial product ecosystems and real-time data tools
+
+## Contact & Support
+Email: rohan591@gmail.com
